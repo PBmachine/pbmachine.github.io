@@ -5,18 +5,20 @@
 ### Projects 
 
 [Creative Robotics Curriculum](/pdf/sample_presentation.pdf)
+<br>
+<!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
+
+---
+
+[R/OSE](/ROSE)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Robotic 3D Printing](/robotic_extruder)
 
 ---
 [Sculpture](/ceramic_sculpture)
 <img src="images/Bucket_small.png?raw=true"/>
-
----
-
-[Sculpture](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Snippets
 
