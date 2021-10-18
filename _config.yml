@@ -1,11 +1,10 @@
 title: Phoebe DeGroot # title
 logo: "/images/round_profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Artist - Creative Technologist - Design Engineer
-  <br><br>
-  Second description 
+  Artist - Machinist - Creative Technologist
   <br><br>
   <a href="https://www.linkedin.com/in/phoebedegroot">LinkedIn</a>
+  <br><br>
   <a href="https://pdproject.tumblr.com/">Project Blog</a>
   
 theme: jekyll-theme-minimal
