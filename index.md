@@ -2,28 +2,26 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/Bucket_small.png?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Creative Robotics Curriculum](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Sculpture](/ceramic_sculpture)
+<img src="images/Bucket_small.png?raw=true"/>
+
+---
+
 [Sculpture](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Snippets
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
