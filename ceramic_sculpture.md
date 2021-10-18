@@ -4,6 +4,6 @@
 
 ### Excavator Bucket
 
-<img src="images/Bucket_WIP01?raw=true"/>
+<img src="images/Bucket_WIP01.png?raw=true"/>
 
 
