@@ -11,6 +11,7 @@
 ---
 
 [R/OSE](/ROSE)
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -18,6 +19,7 @@
 
 ---
 [Sculpture](/ceramic_sculpture)
+<br>
 <img src="images/Bucket_small.png?raw=true"/>
 
 ### Snippets
