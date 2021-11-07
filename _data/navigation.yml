@@ -72,4 +72,4 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: www.pbmachine.xyz/projectblog
+    url: https://projectblog.pbmachine.xyz/
