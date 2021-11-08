@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [PIC 369-01 A Line A Robot(/PIC369)
-<img src="images/PIC_JALightpainting.jpg?raw=true"/>
+<img src="images/PIC_JAlightpainting.JPG?raw=true"/>
 
 ---
 [Sculpture](/pdf/sample_presentation.pdf)
