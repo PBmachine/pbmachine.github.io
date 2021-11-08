@@ -1,5 +1,3 @@
----
-
 ## Projects
 
 [PIC 369-01 A Line A Robot(/PIC369)
