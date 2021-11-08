@@ -1,31 +1,17 @@
-## This can be your internal website page / project page
+## PIC 369-01: A Line, A Robot
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Starting Fall 2021 I have been teaching an interdiscipinary course at Pratt Institute on using industrial robotics as a creative medium. The course was originally taught by a previous staff member at Pratt's Consortium for Research and Robotics, however upon receiving the teaching appointment I developed an entirely new syllabus to better address department outcomes and the unique conditions of hybrid digital+ in person teaching modalities. 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Course Overview
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+PIC 369-01 - A Line A Robot
+Course Objectives:
+yes 
+indeed
+### Teaching Materials
+I made things
+### Student Work
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<img src="images/PIC369_jasperanderson.pg?raw=true"/>
 
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### This course is ongoing - stay tuned for additional projects
