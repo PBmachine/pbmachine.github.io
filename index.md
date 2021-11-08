@@ -1,6 +1,6 @@
 ## Projects
 
-[PIC 369-01 A Line A Robot](/PIC369)
+[PIC 369-01 A Line A Robot](/PIC369.md)
 <img src="images/PIC_JAlightpainting.JPG?raw=true"/>
 
 ---
