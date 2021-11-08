@@ -1,8 +1,6 @@
-## Portfolio
-
 ---
 
-### Category Name 1 
+## Projects
 
 [PIC 369-01 A Line A Robot(/PIC369)
 <img src="images/PIC_JAlightpainting.JPG?raw=true"/>
