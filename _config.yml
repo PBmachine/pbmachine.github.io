@@ -3,7 +3,8 @@ logo: "/images/round_profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Artist-Machinist-Creative Technologist
   <br><br>
-  <a href="https://www.linkedin.com/in/phoebedegroot/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/phoebedegroot/">LinkedIn</a>
+  <a href="https://projectblog.pbmachine.xyz/">Project Blog</a>
   
 theme: jekyll-theme-minimal
 
